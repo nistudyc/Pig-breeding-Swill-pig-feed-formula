@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 猪仙子餐厨料配方系统",
+  "description": "专业的餐厨料饲料配方计算器，针对不同猪只阶段自动计算玉米与蛋白桑粉的最佳配比，支持水分换算与地缘性饲料添加。",
+  "requestFramePermissions": []
+}
